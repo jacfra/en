@@ -1,0 +1,16 @@
+{
+    "*": {
+        "theme": {
+            "footer": false,
+            "toc": true,
+            "breadcrumb": false,
+            "pagination": true
+        }
+    },
+    "index": {
+        "title": "Welcome"
+    },
+    "introduction": {
+        "title": "Introduction"
+    }
+}
