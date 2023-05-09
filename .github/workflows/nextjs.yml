@@ -82,7 +82,7 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Static build with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} pnpm build
+        run: ${{ steps.detect-package-manager.outputs.runner }} run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
