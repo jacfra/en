@@ -4,7 +4,8 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
-  }
+  },
+  basePath: '/en', /** repo name */
 }
 
 const withNextra = require('nextra')({
