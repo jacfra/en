@@ -8,6 +8,9 @@ export default {
   },
   docsRepositoryBase:
     'https://github.com/jacfra/en',
+    search:{
+      placeholder: "Search..."
+    },
   useNextSeoProps() {
     const { frontMatter } = useConfig()
     return {

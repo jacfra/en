@@ -7,13 +7,7 @@
             "pagination": true
         }
     },
-    "index": {
-        "title": "Welcome"
-    },
-    "introduction": {
-        "title": "Introduction"
-    },
-    "kinds-of-words":{
-        "title": "Kinds Of Words"
+    "noun": {
+        "title": "Noun"
     }
 }
