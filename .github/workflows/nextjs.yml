@@ -54,6 +54,8 @@ jobs:
             exit 1
           fi
       - uses: pnpm/action-setup@v2
+        with:
+          version: 6.0.2
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
