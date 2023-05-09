@@ -5,7 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/en', /** repo name */
+  basePath: '/meta-language-learning', /** repo name */
 }
 
 const withNextra = require('nextra')({
