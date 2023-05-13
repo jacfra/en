@@ -12,6 +12,6 @@ Learning new languages is hard.
 
 Theoretically, having some understanding of the scope of the knowledge you are trying learn to will help you improve how you learn.
 
-### Requirements
+## Requirements
 
 This repository assume the reader understands english.
