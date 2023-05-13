@@ -14,4 +14,4 @@ I think I'd be able to learn other languages faster if I had a better understand
 
 ### Requirements
 
-This repository assume the reader has a fluent understanding of English.
+This repository assume the reader understands english.
