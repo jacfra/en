@@ -15,5 +15,11 @@
     },
     "kinds-of-words":{
         "title": "Kinds Of Words"
+    },
+    "mood":{
+        "title": "Mood"
+    },
+    "tense":{
+        "title": "Tense"
     }
 }
