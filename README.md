@@ -10,7 +10,7 @@ Broadly, this repository serves as structure for documenting the fundamentals of
 
 Learning new languages is hard.
 
-Theoretically, having some understanding of the scope of the knowledge you are trying learn to will help you improve how you learn.
+Theoretically, having some understanding of the scope of the knowledge you are learning to understand will help you improve how you learn.
 
 ## Requirements
 
