@@ -14,8 +14,4 @@ Theoretically, having some understanding of the scope of the knowledge you are t
 
 ### Requirements
 
-<<<<<<< HEAD
-This repository assumes the reader has a fluent understanding of English.
-=======
 This repository assume the reader understands english.
->>>>>>> 4108c809d63aa06c03f96c5d78bb0a4abfe8983a
