@@ -21,5 +21,11 @@
     },
     "tense":{
         "title": "Tense"
+    },
+    "sentence-structure":{
+        "title": "Sentence Structure"
+    },
+    "aspect":{
+        "title": "Aspect"
     }
 }
