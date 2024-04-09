@@ -5,7 +5,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/meta-language-learning', /** repo name */
+  basePath: '/meta-language-learning',
+  /** repo name from hosting on github pages */
+  /** pnpm dev cmd launches 404*/
 }
 
 const withNextra = require('nextra')({
