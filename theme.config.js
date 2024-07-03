@@ -11,6 +11,14 @@ export default {
   search: {
     placeholder: "Search..."
   },
+  // there was a duplicate title & description in the nextra
+  // causing link previews to preview to nextra of your site
+  // this keeps the viewport and removes the default preview to nextra
+  head:(
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </>
+  ),
   useNextSeoProps() {
     const { frontMatter } = useConfig()
     return {
