@@ -8,13 +8,13 @@ export default {
   },
   docsRepositoryBase:
     'https://github.com/jackdfraser/meta-language-learning',
-    search:{
-      placeholder: "Search..."
-    },
+  search: {
+    placeholder: "Search..."
+  },
   useNextSeoProps() {
     const { frontMatter } = useConfig()
     return {
-      titleTemplate: '%s - Meta Language Learning',
+      titleTemplate: '%s | Meta Language Learning',
       description: frontMatter.description,
     }
   },
