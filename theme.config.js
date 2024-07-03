@@ -23,7 +23,7 @@ export default {
     const { frontMatter } = useConfig()
     return {
       titleTemplate: '%s | Meta Language Learning',
-      description: frontMatter.description,
+      description: frontMatter.description || `Language learning fundamentals in English`,
     }
   },
 }
